@@ -30,18 +30,18 @@
                 "price": 24.99,
                 "size": "small",
                 "tag": "Free Shipping",
-                "image": "https://i.ebayimg.com/images/g/0PMAAOSwA3dYCTBm/s-l500.jpg",
+                "image": "https://raw.githubusercontent.com/poddatest/test-project/refs/heads/main/images/TRUE%20RELIGION%20Mens%20T-Shirt%20STARTER%20Black%20with%20White%20Print%20%2495%20Jeans%20NWT.jpg",
                 "type": "t-shirt"
             }
         },
         {
             "id": "3",
-            "name": "TRUE RELIGION Mens T-Shirt PART BUDDHA RAGLAN White Navy Sleeves $79 Jeans NWT",
+            "name": "Phoenix T shirt crew neck",
             "details": {
                 "price": 22.99,
                 "size": "large",
                 "tag": "",
-                "image": "https://i.ebayimg.com/images/g/hv4AAOSwiBJZ6B24/s-l500.jpg",
+                "image": "https://raw.githubusercontent.com/poddatest/test-project/refs/heads/main/images/Phoenix%20T%20shirt%20crew%20neck.jpg",
                 "type": "t-shirt"
             }
         },
@@ -52,7 +52,7 @@
                 "price": 51.00,
                 "size": "large",
                 "tag": "Free Shipping",
-                "image": "https://i.ebayimg.com/thumbs/images/m/mZC41E_NsQNFjBdaRJm2dIQ/s-l225.jpg",
+                "image": "https://raw.githubusercontent.com/poddatest/test-project/refs/heads/main/images/Men%E2%80%99s%20Fred%20Perry%20Dress%20Shirts%20-%20Long%20Sleeve%20Classic%20Collar%20Slim%20Fit%20Shirt.jpg",
                 "type": "dress shirts"
             }
         },
@@ -63,7 +63,7 @@
                 "price": 76.54,
                 "size": "small",
                 "tag": "Free Shipping",
-                "image": "https://i.ebayimg.com/thumbs/images/m/mkScah0HO1z3jp1rJ8wBhrA/s-l225.jpg",
+                "image": "https://raw.githubusercontent.com/poddatest/test-project/refs/heads/main/images/Seidensticker%20Tailored%20Chambray%20Stripe%20Long%20Sleeve%20Shirt%20-%20Blue%20Grey.webp",
                 "type": "dress shirts"
             }
         }
